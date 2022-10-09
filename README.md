@@ -15,7 +15,7 @@ I'm a Software Engineer (Developer & Tester), Animation & Voice Over Artist, and
 - 🌱 I’m currently learning JavaScript, Reactjs, Manual and Automated Testing using Postman and Cypress.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Software Quality Assuranace Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing cema4.ee@gmail.com.
+- 📫 You can contact me by emailing cema4.ee@gmail.com.
 
 ---
 
