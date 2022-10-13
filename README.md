@@ -13,7 +13,7 @@ From an early age I have always been deeply interested in computing. In my opini
 - 💡 Fun fact:
   - I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
   - I'm interning at [Cecure Intelligence Limited](https://cecureintel.com/) as a Frontend Engineer.
-  - I'm part of [Quales Tech Cohort 11](https://www.quales.tech/).
+  - I was part of [Quales Tech Cohort 11 Software Testers](https://www.quales.tech/).
 - 🌱 I’m currently learning JavaScript, Reactjs, Manual and Automated Testing using Postman and Cypress.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Software Quality Assuranace Engineer (Intern or Junior level).
