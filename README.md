@@ -15,7 +15,7 @@ From an early age, I have always been deeply interested in computing. In my opin
   - I interned at [Cecure Intelligence Limited](https://cecureintel.com/) as a Frontend Engineer.
   - I was part of [Quales Tech Cohort 11 Software Testers](https://www.quales.tech/).
 - 🌱 I’m currently learning Manual, and Automated Testing using Postman and Cypress.
-<! -- - 😊 I’m looking for help with open-source projects, and any open opportunities. -->
+<!-- - 😊 I’m looking for help with open-source projects, and any open opportunities. -->
 - 💼 Job interests: Software Engineer, Software Quality Assurance Engineer.
 - 📫 You can contact me by emailing cema4.ee@gmail.com.
 
