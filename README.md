@@ -14,10 +14,11 @@ From an early age, I have always been deeply interested in computing. In my opin
   - I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
   - I interned at [Cecure Intelligence Limited](https://cecureintel.com/) as a Frontend Engineer.
   - I was part of [Quales Tech Cohort 11 Software Testers](https://www.quales.tech/).
-- 🌱 I’m currently learning Manual, and Automated Testing using Postman and Cypress.
-- 💼 Job interests: Software Engineer, Software Quality Assurance Engineer.
+  - I am a Software Quality Assurance and Test Engineering Student at [Conestoga College](https://www.conestogac.on.ca/).
+- 🌱 I am currently learning Manual and Automated Testing using Postman and Cypress.
+- 💼 Job interests: Software Quality Assurance Engineer, Software Tester.
 - 📫 You can contact me by emailing cema4.ee@gmail.com.
-<!-- - 😊 I’m looking for help with open-source projects, and any open opportunities. -->
+<!-- - 😊 I am looking for help with open-source projects and any open opportunities. -->
 ---
 
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ediscode&show_icons=true&include_all_commits=true&hide_border=true" alt="Edikan's GitHub stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ediscode&langs_count=8&layout=compact&hide_border=true" alt="Edikan's GitHub stats" /> |
