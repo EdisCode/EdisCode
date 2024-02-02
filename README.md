@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-edikanekanem.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)](https://ediscode.github.io/edikanekanem/)
 [![Linkedin Badge](https://img.shields.io/badge/-edikanekanem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/edikan-ekanem-343ab41b1/)
 [![Twitter Badge](https://img.shields.io/badge/-@didi_ekanem-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/didi_ekanem)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cema4.ee@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cema4.ee@gmail.com)
 
 
 I am a Software Engineer || ISTQB® Certified Tester || Software Quality Assurance Engineer
