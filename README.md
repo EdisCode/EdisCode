@@ -23,6 +23,13 @@ From an early age, I have always been deeply interested in computing. In my opin
 - 💼 Job interests: Software Quality Assurance Engineer, Software Tester.
 
 <!-- - 😊 I am looking for help with open-source projects and any open opportunities. -->
+
+## 💡 Technologies
+
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[!Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]
+[!Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]
+
 ---
 
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ediscode&show_icons=true&include_all_commits=true&hide_border=true" alt="Edikan's GitHub stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ediscode&langs_count=8&layout=compact&hide_border=true" alt="Edikan's GitHub stats" /> |
