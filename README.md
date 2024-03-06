@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cema4.ee@gmail.com)
 
 
-I am a Software Engineer || ISTQB® Certified Tester || Software Quality Assurance Engineer
+I am a Software Quality Assurance Engineer || ISTQB® Certified Tester || CIPS (Canada’s Association of I.T. Professionals) Member
 
 From an early age, I have always been deeply interested in computing. In my opinion, nothing on the planet can measure the exponential growth and excitement in the computing industry, an industry of which I am proud to be a part, particularly Software Engineering. With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe.
 
@@ -29,6 +29,9 @@ From an early age, I have always been deeply interested in computing. In my opin
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
 
