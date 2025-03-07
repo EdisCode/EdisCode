@@ -19,9 +19,8 @@ From an early age, I have always been deeply interested in computing. In my opin
   - I interned at [Cecure Intelligence Limited](https://cecureintel.com/) as a Frontend Engineer.
   - I was part of [Quales Tech Cohort 11 Software Testers](https://www.quales.tech/).
   - I graduated with Distinction from [Conestoga College](https://www.conestogac.on.ca/), Software Quality Assurance and Test Engineering, Class of 2024.
-- 🌱 I am currently learning Manual and Automated Testing using Postman, Cypress, Selenium, and Playwright.
-
-<!-- - 💼 Job interests: Software Quality Assurance Engineer, Software Tester. -->
+- 🌱 A never-ending cycle of learning Manual and Automated Testing using Postman, Cypress, Selenium, and Playwright.
+- 💼 Job interests: Software Quality Assurance Analyst.
 <!-- - 😊 I am looking for help with open-source projects and any open opportunities. -->
 
 ## 💡 Technologies
